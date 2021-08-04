@@ -1,0 +1,16 @@
+manga  longa G
+5 camise
+
+
+
+na pasta raiz
+
+git init
+git remote add origin  "endereço do git "
+git push origin master
+
+
+
+
+
+https://github.com/DUNDAKI/javazfx-jdbc.git
